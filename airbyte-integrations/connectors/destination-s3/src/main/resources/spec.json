@@ -11,7 +11,6 @@
     "required": [
       "s3_bucket_name",
       "s3_bucket_path",
-      "s3_bucket_region",
       "format"
     ],
     "properties": {
@@ -93,7 +92,8 @@
           "us-gov-east-1",
           "us-gov-west-1",
           "us-west-1",
-          "us-west-2"
+          "us-west-2",
+          "eu-frankfurt-1"
         ],
         "order": 5
       },
